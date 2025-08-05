@@ -4,6 +4,8 @@ Soy un **Desarrollador de Software y Especialista en Automatización** de Méxic
 
 Mi objetivo es aplicar mis habilidades en **Python, Procesamiento de Lenguaje Natural (PLN) y bases de datos** para construir tecnología inteligente y eficiente.
 
+![Vistas del Perfil](https://komarev.com/ghpvc/?username=Brandon331&color=blue)
+
 ---
 
 ## 🚀 Proyectos Destacados
@@ -22,8 +24,9 @@ Estos son algunos de los proyectos en los que he trabajado:
 ## 🔭 Enfoque Actual
 
 -   Aplicando técnicas de **Generación Aumentada por Recuperación (RAG)** para crear aplicaciones de IA más precisas y contextuales.
--   Aprendiendo más sobre **arquitecturas de backend escalables con FastAPI**.
+-   Desarrollando **pipelines de datos y automatizaciones** que utilizan principios de Machine Learning y PLN para optimizar procesos.
 -   Explorando el **Procesamiento de Lenguaje Natural (PLN)** para la automatización de tareas complejas.
+-   Aprendiendo más sobre **arquitecturas de backend escalables con FastAPI**.
 
 ---
 
@@ -46,7 +49,7 @@ Estos son algunos de los proyectos en los que he trabajado:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -70,7 +73,7 @@ Estos son algunos de los proyectos en los que he trabajado:
 ## 📫 Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario-de-linkedin/">
+  <a href="https://www.linkedin.com/in/almanza-medina-brandon-alfredo-baa266373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
