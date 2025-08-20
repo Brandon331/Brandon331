@@ -15,9 +15,11 @@ Estos son algunos de los proyectos en los que he trabajado:
 -   [**LearnWave (Spotify for Learning)**](https://github.com/Brandon331/LLMs_Spotify_Learn)  
     *Backend para un generador de snippets de aprendizaje con IA, utilizando FastAPI, RAG y LLMs para ofrecer contenido y sugerencias personalizadas.*
 
--   **Sistemas de Venta a Medida** *Diseño y desarrollo de sistemas de punto de venta para negocios locales (cafeterías, restaurantes), optimizando la gestión de inventario y los procesos de venta con tecnologías como PHP y MySQL.*
+-   [**Doctora DeyIA**](https://github.com/Nightdragoon/StemFescHackProject)
+    *App web sobre aprendizaje sobre Inteligencia Artificial, consta de un agente IA, le preguntas acerca de un tema y te responde con un audio humanizado.*
 
--   **Automatización de Procesos con Python** *Desarrollo de scripts para automatizar tareas internas en entornos empresariales, incluyendo la extracción y manipulación de grandes volúmenes de datos desde bases de datos relacionales.*
+-   [**Hackathon starter kit**](https://github.com/Aleman-Z/hackathon-starter-kit)
+    *Template para hackathones, tiene la base para no iniciar de cero, es spotify for learning, un spotify para aprendizaje.*
 
 ---
 
