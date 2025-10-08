@@ -11,6 +11,8 @@ Mi objetivo es aplicar mis habilidades en **Python, Procesamiento de Lenguaje Na
 ## 🚀 Proyectos Destacados
 
 Estos son algunos de los proyectos en los que he trabajado:
+- [**HeliOS (Hackathon NASA Space apps challenge)**](https://github.com/Nightdragoon/NasaSpaceApps)
+  *App web que sirve como buscador inteligente con AI, accesible para personas con discapacidades visuales, buscador tipo Google pero para la NASA
 
 -   [**LearnWave (Spotify for Learning)**](https://github.com/Brandon331/LLMs_Spotify_Learn)  
     *Backend para un generador de snippets de aprendizaje con IA, utilizando FastAPI, RAG y LLMs para ofrecer contenido y sugerencias personalizadas.*
