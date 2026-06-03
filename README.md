@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Brandon Almanza
+# 👋 ¡Hola! Soy Ambar Almanza
 
 💻 Desarrollador de Software
 🎨 Creador de herramientas de Pixel Art
